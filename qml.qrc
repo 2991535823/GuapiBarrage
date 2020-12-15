@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HttpUtil.js</file>
+        <file>Barrage.qml</file>
+        <file>StrUtil.js</file>
+    </qresource>
+</RCC>
