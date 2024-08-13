@@ -2,6 +2,8 @@
 #include <QQmlApplicationEngine>
 #include "screeninfo.h"
 #include <QQmlContext>
+
+//test main
 int main(int argc, char *argv[])
 {
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
